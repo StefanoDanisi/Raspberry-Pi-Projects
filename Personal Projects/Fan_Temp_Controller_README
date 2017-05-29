@@ -1,0 +1,20 @@
+This project reads the cpu temperature and turns on the fan when the cpu reaches the set temperature.The fan will turn off when the cpu temperature is below the set degree. 
+
+Things needed for this project:
+-Raspberry Pi. (I used a Pi 3 Model B) 
+-Relay switch. (I used 'SainSmart 2-Channel Relay Module')
+-Cooling Solution (I used a desktop fan)
+-A power adapter to power the cooling solution. (IMPORTANT!!! Make sure to read how much power your cooling solution needs to run and get a power adapter that outputs the minimum requirements of Voltage and Amperage for the cooling solution)
+
+Tools Needed:
+-Wire stripper/cutter
+-Shrink Tube, Twist-on connectors(Marretts) or electrical tape. (Used to cover exposed wires)
+-Voltmeter (For testing wire connections)
+
+
+IMPORTANT SAFTEY WARNING!!!
+-Make sure there is no "POWER" going to any of the components when stripping and/or splicing cables. Use a voltmeter if you are unsure if there is any power going through the wires.
+-When connecting all the components, make sure the power is off on the Raspberry Pi and the power supply. 
+-Make Sure to cover all exposed wires using Shrink Tube or Twist-on connectors(Marretts).
+
+This will reduce the risk of electrocution, short circuiting Raspberry Pi and electrical fire. 
