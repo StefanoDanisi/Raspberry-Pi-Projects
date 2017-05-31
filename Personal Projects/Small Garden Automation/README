@@ -1,0 +1,11 @@
+This project was design for small gardens.
+This project will contain pumps and moisture sensor(s) to control when a plant or multiple plants need to be watered.
+
+This project will incorperate a database to store information about the plant(s).
+The garden automation can be set to water plants based on set moisture levels.
+The watering system can also be manually overridden if you wish to change change the amount of water the plant(s) receives or adjust the moisture level for when the pant is to be watered.
+
+Software used for this project:
+-MYSQL (Store information about the plants)
+-PHP
+-Android Studio (Used to view and control system)
