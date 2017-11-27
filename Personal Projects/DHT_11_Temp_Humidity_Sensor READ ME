@@ -1,0 +1,12 @@
+This file contains code which controls a DHT11 temperature and humidity sensor.
+
+PARTS
+-DHT11 sensor
+-Jumper wires
+
+ENSURE ALL POWER IS DISCONNECTED FROM RASPBERRRY PI BEFORE ATTEMPTING TO CONNECT WIRES!!!
+
+WIRING FOR PROGRAM
+-Refer to link for correct wiring of the sensor (http://www.circuitbasics.com/wp-content/uploads/2015/12/DHT11-Pinout-for-three-pin-and-four-pin-types-2.jpg)
+(Copyright Circuit Basics)
+
