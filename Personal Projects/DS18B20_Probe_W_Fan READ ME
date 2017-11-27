@@ -1,5 +1,7 @@
 This file contains code which controls a DS18B20 temperature probe and fan.
 
+Ensure 1-WIRE is enable for this program to work on the raspberry pi 
+
 PARTS
 -DS18B20
 -Relay
@@ -12,3 +14,6 @@ ENSURE ALL POWER IS DISCONNECTED FROM RASPBERRRY PI BEFORE ATTEMPTING TO CONNECT
 WIRING FOR PROGRAM
 -Refer to link for correct wiring of the probe (http://www.circuitbasics.com/wp-content/uploads/2016/03/Raspberry-Pi-DS18B20.png)
 (Copyright Circuit Basics)
+
+-Refer to link for wiring Relay to raspberry pi(https://www.driscocity.com/wp-content/uploads/2014/05/connectrelay1.jpg)
+(Copyright of driscocity.com)
