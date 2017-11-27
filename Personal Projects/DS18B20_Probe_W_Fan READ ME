@@ -1,0 +1,14 @@
+This file contains code which controls a DS18B20 temperature probe and fan.
+
+PARTS
+-DS18B20
+-Relay
+-Fan of your choice
+-4.7K Ohm or 10K Ohm resistor
+-Jumper wires
+
+ENSURE ALL POWER IS DISCONNECTED FROM RASPBERRRY PI BEFORE ATTEMPTING TO CONNECT WIRES!!!
+
+WIRING FOR PROGRAM
+-Refer to link for correct wiring of the probe (http://www.circuitbasics.com/wp-content/uploads/2016/03/Raspberry-Pi-DS18B20.png)
+(Copyright Circuit Basics)
